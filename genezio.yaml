@@ -4,6 +4,7 @@ frontend:
     scripts:
         build: npm run build
         deploy: npm install
-name: diluhh
+    subdomain: dilu
+name: dilu
 region: us-east-1
 yamlVersion: 2
